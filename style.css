@@ -1,0 +1,27 @@
+.test{
+    background-color: yellow;
+    font-weight: bold;
+}
+.test2{
+    letter-spacing: 7px;
+    
+}
+.mystyle{
+    background-color: yellow;
+    
+}
+.files{
+    text-decoration: underline;
+    font-style: italic;
+}
+.lot{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+#btn{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+}
